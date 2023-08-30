@@ -633,6 +633,12 @@ header {
 
 @media all and (max-width: 560px){
 
+  .doctor-fade-bg{
+    background: url(../images/doctor-fade-bg-mob.png) center center no-repeat;
+    background-size: cover;
+}
+
+
 .secont-color-para-gold{
     text-align: center;
 }
